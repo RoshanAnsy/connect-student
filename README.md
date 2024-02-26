@@ -80,9 +80,6 @@ Snapshots 📸 Help to make it better by adding your ideas or by making current 
 
 If you have an idea of any Njack_Hack_It_Out_Turn1ng you want to build, just open an appropriate issue regarding this, we will discuss and assign you that issue. In case you are confused and have queries, just ping in the discord; we will help you get along and build!
 
-‼️ For JWOC'23 program Admin and Mentor rights of Njack_Hack_It_Out_Turn1ng are given to Atri Sukul ‼️
-
-### Open Source programs this repo has been part of
 
 ### Contribution Guidelines
 
