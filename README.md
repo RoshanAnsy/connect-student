@@ -16,10 +16,9 @@ Connect Student is a web application designed to facilitate communication and co
 - **Notification System**: Users receive notifications for activities such as new comments, likes on their posts, or mentions.
 - **Privacy Settings**: Users can manage their privacy settings to control who can view their posts or profile information.
 - **Authentication and Authorization**: The project ensures secure login and authentication mechanisms. It also manages user roles and permissions effectively.
-- **Responsive Design**: The project interface is designed to be responsive, ensuring usability across various devices and screen sizes.
 - **Feedback and Reporting**: Users can provide feedback or report inappropriate content, helping maintain a positive and safe community environment.
-- **Admin Panel**: The project includes an admin panel for managing users, posts, reported content, and other aspects of the platform.
-- **Analytics and Insights**: The project may include analytics tools to provide insights into user engagement, popular topics, or trends within the platform.
+
+
 
 ## Technologies Used
 - JavaScript
